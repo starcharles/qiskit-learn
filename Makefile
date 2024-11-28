@@ -1,7 +1,6 @@
+
+init:
+	python3 -m venv venv
+
 activate:
-	source venv/bin/activate
-
-
-add:
-	poetry add $(package)
-
+	sh -c "source ./venv/bin/activate"

@@ -2,6 +2,10 @@
 
 This repository contains my notes and code while learning Qiskit.
 
+## Requirements
+
+- Python 3
+
 ## Using Poetry As Package Manager
 
 - [Poetry](https://python-poetry.org/docs/#installation)
@@ -15,7 +19,7 @@ python3 -m venv venv
 - Activate venv
 
 ```bash
-source .venv/bin/activate
+source ./venv/bin/activate
 ```
 
 or
