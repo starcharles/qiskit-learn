@@ -35,3 +35,10 @@ poetry install
 ```bash
 poetry add numpy
 ```
+
+## References
+
+- https://qiita.com/nya__str/items/c772986ffe6848d27ac3
+- https://aulta.co.jp/technical/program/python/python-gitignore-git
+
+- [Qiskit Textbook](https://qiskit.org/textbook/ch-states/introduction.html)
