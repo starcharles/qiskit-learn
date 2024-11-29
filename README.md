@@ -10,28 +10,16 @@ This repository contains my notes and code while learning Qiskit.
 
 - [Poetry](https://python-poetry.org/docs/#installation)
 
-## venv
+## Login to Virtual Environment
 
 ```bash
-python3 -m venv venv
-```
-
-- Activate venv
-
-```bash
-source ./venv/bin/activate
-```
-
-or
-
-```bash
-make activate
+poetry shell
 ```
 
 ## Install dependencies
 
 ```bash
-poetry install
+(qiskit-learn-py3.10) $ poetry install
 ```
 
 ## Add Packages
